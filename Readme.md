@@ -6,7 +6,7 @@ This is a Python program for merging multiple PDF files into a single PDF.
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/jeturgavli/pdf-merger.git
+    git clone https://github.com/jeturgavli/PDF_MERGE_PROGRAM.git
     ```
 
 2. **Install Dependencies:**
